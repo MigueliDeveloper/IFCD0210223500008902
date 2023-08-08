@@ -141,11 +141,11 @@ body{
 
 .card.active .product-bg{
     clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0 100%);
-}
+} 
 
 .card.active .product-img{
     margin-top: -100%;
-}
+} 
 
 .card.active .product-name{
     transition: 1s;
