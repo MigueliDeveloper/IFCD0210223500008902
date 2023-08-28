@@ -14,7 +14,7 @@ export class CursosService{
                 new alumnosBD("Miguel", "R. R.", 39,"miguelrr@gmail.com", "123456789","./assets/media/fotommp.jpg", true, 8), 
                 new alumnosBD("Javier", "D. M.", 19,"javierdm@gmail.com", "123456789","./assets/media/fotommp.jpg", true, 8)
         ]
-}
+    }
 
 getTexto(){
     return "Texto desde un servicio"
